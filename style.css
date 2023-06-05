@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f8f9fd;
+    background-color: #c4c5c9;
     font-family: 'Metamorphous', cursive;
     display: flex;
     align-items: center;
@@ -33,7 +33,7 @@ body {
   }
   
   .header {
-    background-color: #3e57db;
+    background-image: linear-gradient(to bottom right, blue, red);
     color: #fff;
     padding: 30px 20px;
   }
